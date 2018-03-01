@@ -15,4 +15,4 @@ SocketIO
 ExpressJS
 ```
 ### Authors
-* Created and Maintain By [Raj Das](https:fb.com/itsrajdas)
+* Created and Maintain By [Raj Das](https://www.fb.com/itsrajdas)
