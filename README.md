@@ -7,7 +7,7 @@ npm install
 ```
 ### Use
 ```
-node start
+npm start
 ```
 ### Tools Uses
 ```
