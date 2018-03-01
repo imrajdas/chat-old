@@ -1,23 +1,11 @@
 {
-<<<<<<< HEAD
   "name": "chat",
   "version": "1.0.0",
   "description": "chat app with socket.io and node.js Live link - https://anychat-app.herokuapp.com/",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.2",
-    "http": "0.0.0",
-=======
-  "name": "iochat",
-  "version": "1.0.0",
-  "description": "chat app with socket.io",
-  "engines": {
-    "node": "6.11.1"
-  },
-  "main": "index.js",
-  "dependencies": {
     "express": "^4.15.3",
->>>>>>> 82d97916bd875ff25d1f516567c5ced66310d882
+    "http": "0.0.0",
     "socket.io": "^2.0.3"
   },
   "devDependencies": {},
@@ -26,24 +14,17 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "git+https://github.com/imrajdas/chat.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/imrajdas/chat/issues"
-  },
-  "homepage": "https://github.com/imrajdas/chat#readme"
-=======
-    "url": "git+https://github.com/itsrajdas/chat.git"
-  },
+  "keywords": [
+    "soket.io",
+    "chat app",
+    "express chat app",
+    "socket.io chat app"
+  ],
   "author": "Raj Das",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/itsrajdas/chat/issues"
-  },
-  "homepage": "https://github.com/itsrajdas/chat#readme"
->>>>>>> 82d97916bd875ff25d1f516567c5ced66310d882
+    "url": "https://github.com/imrajdas/chat/issues"
+  }
 }
