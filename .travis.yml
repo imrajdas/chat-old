@@ -1,0 +1,7 @@
+dist: xenial
+language: go
+go:
+- 1.x
+git:
+  depth: 1
+install: true
